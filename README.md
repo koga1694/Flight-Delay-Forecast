@@ -4,4 +4,5 @@ Airline 크롤링 : https://www.airfleets.net/recherche/?key=N509NK
 
 ## TIMELINE
 ### Gibo
-2023-04-07 : 출발, 도착 State 채우기 완료. Airline, Carrier(DOT) 일부 채우지 못한 값은 크롤링을 통해 채울 예정임.
+2023-04-07 : 출발, 도착 State 채우기 완료. Airline, Carrier(DOT) 일부 채우지 못한 값은 크롤링을 통해 채울 예정임.   
+2023-04-12 : Airline, Carreir(DOT) 채우기 완료. 시간 채우는 코드 작성했으나, for문을 사용하여 너무 느림
